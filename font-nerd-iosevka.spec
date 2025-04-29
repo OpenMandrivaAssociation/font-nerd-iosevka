@@ -30,6 +30,6 @@ install -m644 README.md %{buildroot}%{_docdir}/%{name}
 install -m644 LICENSE.md %{buildroot}%{_licensedir}/%{name}
 
 %files -n fonts-ttf-iosevka
-%doc README.md
+%{_datadir}/doc/fonts-nerd-iosevka/README.md
 %{_datadir}/fonts/TFF/*
 %{_datadir}/licenses/*
