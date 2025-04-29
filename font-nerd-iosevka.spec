@@ -1,7 +1,7 @@
 %global urlbase https://github.com/ryanoasis/nerd-fonts/releases/download/v%{version}
 %global debug_package %{nil}
 
-Name:		font-nerd-iosevka
+Name:		fonts-nerd-iosevka
 Version:	3.4.0
 Release:	1
 Source0:	%{urlbase}/iosevka.tar.xz
