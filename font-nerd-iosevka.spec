@@ -15,7 +15,7 @@ BuildArch:      noarch
 Group:		System/Fonts/Open type
 Summary:	Iconic font set
 
-%description -n fonts-otf-awesome
+%description -n fonts-ttf-iosevka
 Iconic font set
 
 %description
